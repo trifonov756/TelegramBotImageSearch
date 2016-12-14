@@ -1,0 +1,124 @@
+TelegramBotImageSearch.py[LINE:78]# INFO     [2016-12-14 22:19:34,713]  Start the bot.
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:19:34,762]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:19:58,126]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 200 23
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:19:58,207]  Starting new HTTPS connection (1): api.telegram.org
+TelegramBotImageSearch.py[LINE:78]# INFO     [2016-12-14 22:20:12,829]  Start the bot.
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:12,905]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:13,759]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:13,767]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:14,026]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:14,396]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:14,890]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:15,148]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:15,509]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:15,517]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:16,026]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:16,389]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:16,397]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:16,907]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:17,284]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:17,293]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:18,301]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:18,666]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:18,678]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:19,685]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:20,067]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:20,075]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:22,082]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:22,434]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:22,438]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:24,446]  Starting new HTTPS connection (1): api.telegram.org
+TelegramBotImageSearch.py[LINE:78]# INFO     [2016-12-14 22:20:24,593]  Start the bot.
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:24,639]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:24,786]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:24,790]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:25,427]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:25,436]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:28,799]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:29,214]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?offset=1&timeout=20 HTTP/1.1" 409 96
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:29,446]  Starting new HTTPS connection (1): api.telegram.org
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:29,698]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:29,835]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:29,839]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:29,954]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:30,308]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:30,316]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:37,850]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:38,205]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?offset=1&timeout=20 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:38,216]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:38,324]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:38,680]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:38,689]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:38,724]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:39,097]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:39,105]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:54,698]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:55,054]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?offset=1&timeout=20 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:55,058]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:55,112]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:55,465]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:55,473]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:20:56,061]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:20:56,446]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:20:56,451]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:21:16,447]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:21:16,464]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:21:27,478]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:21:27,807]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?offset=1&timeout=20 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:21:27,813]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:21:28,067]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:21:28,408]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:21:28,414]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:21:28,455]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:21:28,801]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?offset=1&timeout=20 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:21:28,806]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:21:29,315]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:21:29,664]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:21:29,668]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:21:49,668]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:21:49,680]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:22:10,022]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:22:10,040]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:22:30,395]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:22:30,410]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:22:32,418]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:22:32,806]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?offset=1&timeout=20 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:22:32,814]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:22:33,068]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:22:33,425]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:22:33,429]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:22:33,676]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:22:34,039]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?offset=1&timeout=20 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:22:34,048]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:22:34,556]  Starting new HTTPS connection (1): api.telegram.org
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:22:34,921]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?timeout=20&offset=1 HTTP/1.1" 409 96
+__init__.py[LINE:250]# ERROR    [2016-12-14 22:22:34,929]  A request to the Telegram API was unsuccessful. The server returned HTTP 409 Conflict. Response body:
+[b'{"ok":false,"error_code":409,"description":"Conflict: terminated by other long poll or webhook"}']
+connectionpool.py[LINE:400]# DEBUG    [2016-12-14 22:22:54,921]  https://api.telegram.org:443 "GET /bot327935967:AAFt83UkBwDX6m0W_T_gXlVKIhg9qgMtJmM/getUpdates?offset=1&timeout=20 HTTP/1.1" 200 23
+connectionpool.py[LINE:809]# DEBUG    [2016-12-14 22:22:54,928]  Starting new HTTPS connection (1): api.telegram.org
